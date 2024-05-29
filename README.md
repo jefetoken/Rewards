@@ -23,6 +23,7 @@ The platform verifies various activities that users can complete to earn points.
 - **Owning specific NFTs from our collections.**
 - **Owning POAPs (Proof of Attendance Protocol).**
 - **Completing surveys.**
+- **Participating in our programmed video games.**
 
 In addition to these criteria, there are many more available, and they will be updated regularly. Each criterion is verified and a score is assigned at the end. The point system is used for rewards, including airdrops and benefits, awarded in the last week of each month.
 
@@ -44,6 +45,10 @@ In addition to these criteria, there are many more available, and they will be u
    - Fill out our surveys available on the platform.
    - Points will be assigned once the survey is completed.
 
+5. **Participating in Our Games:**
+   - Play our video games and achieve certain milestones or high scores.
+   - The platform will verify your participation and achievements in the games.
+
 ### Rewards
 
 The points accumulated through various activities can be used to obtain rewards. These include airdrops and other benefits, distributed in the last week of each month.
@@ -61,6 +66,7 @@ To connect your wallet, follow these steps:
 ### Check Balance
 
 Once the wallet is connected, you will be able to see your JEFETOKEN balance on the different supported networks (FTM, BNB, OP, ETH).
+
 <br><br>
 #
 # Rewards JEFE Token Español
@@ -80,7 +86,7 @@ Bienvenido a `rewards.jefetoken.com`, una plataforma donde los usuarios pueden c
 
 Los usuarios pueden conectar su billetera para verificar su balance de JEFETOKEN en nuestros diferentes contratos.
 
-### Verificación de Criterias
+### Verificación de Criterios
 
 La plataforma verifica diversas actividades que los usuarios pueden completar para ganar puntos. Estas actividades incluyen:
 
@@ -88,10 +94,11 @@ La plataforma verifica diversas actividades que los usuarios pueden completar pa
 - **Poseer ciertos NFTs de nuestras colecciones.**
 - **Poseer POAPs (Proof of Attendance Protocol).**
 - **Completar encuestas.**
+- **Participar en nuestros videojuegos.**
 
-Además de estas criterias, hay muchas más disponibles y se irán actualizando regularmente. Cada criterio se verifica y se asigna un puntaje al final. El sistema de puntaje se utiliza para recompensas, entre ellas airdrops y beneficios, otorgados la última semana de cada mes del año.
+Además de estos criterios, hay muchos más disponibles y se irán actualizando regularmente. Cada criterio se verifica y se asigna un puntaje al final. El sistema de puntaje se utiliza para recompensas, entre ellas airdrops y beneficios, otorgados la última semana de cada mes del año.
 
-#### Detalle de Criterias
+#### Detalle de Criterios
 
 1. **Poseer JEFETOKEN en Optimism:**
    - Asegúrate de tener la cantidad requerida de JEFE/OP.
@@ -108,6 +115,10 @@ Además de estas criterias, hay muchas más disponibles y se irán actualizando 
 4. **Completar Encuestas:**
    - Llena nuestras encuestas disponibles en la plataforma.
    - Los puntos se asignarán una vez completada la encuesta.
+
+5. **Participar en Nuestros Videojuegos:**
+   - Juega nuestros videojuegos y alcanza ciertos hitos o puntajes altos.
+   - La plataforma verificará tu participación y logros en los juegos.
 
 ### Recompensas
 
